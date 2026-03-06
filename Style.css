@@ -106,22 +106,22 @@ img{
 }
 
 #type #first:hover{
-  transform: scale(1.3);
+  transform: scale(1.2);
   transition: 0.4s;
 }
 
 #type #second:hover{
-  transform: scale(1.3);
+  transform: scale(1.2);
   transition: 0.4s;
 }
 
 #type #third:hover{
-  transform: scale(1.3);
+  transform: scale(1.2);
   transition: 0.4s;
 }
 
 #input #icon:hover{
-  transform: scale(1.3);
+  transform: scale(1.2);
   transition: 0.4s;
 }
 
