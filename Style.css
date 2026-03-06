@@ -70,7 +70,7 @@ img{
   display: flex;
   margin-left: 20px;
   margin-top: 20px;
-  gap: 30px;
+  gap: 50px;
 }
 
 #first{
@@ -98,7 +98,7 @@ img{
   display: flex;
   margin-top: 20px;
   margin-left: 20px;
-  gap: 30px;
+  gap: 50px;
 }
 
 #main-2{
@@ -107,7 +107,7 @@ img{
   display: flex;
   margin-top: 20px;
   margin-left: 20px;
-  gap: 30px;
+  gap: 50px;
 }
 
 #type #first:hover{
