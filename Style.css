@@ -299,6 +299,10 @@ img{
   text-decoration: none;
 }
 
+#first-about-us #span:hover{
+  color: #ed2e30;
+}
+
 #about-us-1{
   width: 100%;
   height: 300px;
